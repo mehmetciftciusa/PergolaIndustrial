@@ -26,43 +26,43 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // Gallery Images
 const galleryImages = [
     {
-        src: 'images/gallery/1.jpg',
+        src: 'images/gallery/1.jpeg',
         alt: 'Pergola Design 1'
     },
     {
-        src: 'images/gallery/2.jpg',
+        src: 'images/gallery/2.jpeg',
         alt: 'Pergola Design 2'
     },
     {
-        src: 'images/gallery/3.jpg',
+        src: 'images/gallery/3.jpeg',
         alt: 'Pergola Design 3'
     },
     {
-        src: 'images/gallery/4.jpg',
+        src: 'images/gallery/4.jpeg',
         alt: 'Pergola Design 4'
     },
     {
-        src: 'images/gallery/5.jpg',
+        src: 'images/gallery/5.jpeg',
         alt: 'Pergola Design 5'
     },
     {
-        src: 'images/gallery/6.jpg',
+        src: 'images/gallery/6.jpeg',
         alt: 'Pergola Design 6'
     },
     {
-        src: 'images/gallery/7.jpg',
+        src: 'images/gallery/7.jpeg',
         alt: 'Pergola Design 7'
     },
     {
-        src: 'images/gallery/8.jpg',
+        src: 'images/gallery/8.jpeg',
         alt: 'Pergola Design 8'
     },
     {
-        src: 'images/gallery/9.jpg',
+        src: 'images/gallery/9.jpeg',
         alt: 'Pergola Design 9'
     },
     {
-        src: 'images/gallery/10.jpg',
+        src: 'images/gallery/10.jpeg',
         alt: 'Pergola Design 10'
     }
 ];
