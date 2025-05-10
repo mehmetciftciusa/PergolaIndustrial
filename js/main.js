@@ -60,10 +60,6 @@ const galleryImages = [
     {
         src: 'images/gallery/9.jpeg',
         alt: 'Pergola Design 9'
-    },
-    {
-        src: 'images/gallery/10.jpeg',
-        alt: 'Pergola Design 10'
     }
 ];
 
